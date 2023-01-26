@@ -229,6 +229,7 @@ alias gstl='git stash list'
 alias gstp='git stash pop'
 alias gsts='git stash show --text'
 alias gsu='git submodule update'
+alias gsw='git switch'
 
 alias gts='git tag -s'
 alias gtv='git tag | sort -V'
